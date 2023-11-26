@@ -55,6 +55,6 @@ fig.subplots_adjust(left=0, right=1, top=1, bottom=0)
 
 
 # Saving the image in different resolutions
-plt.savefig('logo_icon_light.jpg', dpi=100)  # 8K resolution
+plt.savefig('logo_light.jpg', dpi=1000)  # 8K resolution
 
 plt.show()
